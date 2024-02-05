@@ -1,0 +1,5 @@
+pdf_extractor/*
+tmp.py
+__pycache__
+*__
+__*
