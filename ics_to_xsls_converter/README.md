@@ -43,4 +43,4 @@ python converter.py /dir/file_to_convert.ics /path/converted_file.xlsx
 - In the case of an absolute path, spaces within filenames (file to be converted as well as in output file name) are also supported.
 
 ## Author
-CID [X/Twitter](https://tweeter.com/cee_eye_d)
+CID [X/Twitter](https://twitter.com/cee_eye_d)
